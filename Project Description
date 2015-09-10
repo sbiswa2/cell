@@ -1,0 +1,9 @@
+Cell has a great evolutionary history and all living organism (intelligent/non-intelligent) are based on one or more of them. 
+Basically they are the only living units on this planet Earth, and all other living organism, can be thought of as a careful
+collection of these units. So exploring these units on how to xform into hardware level modelling is the goal of this project.
+
+This project will try to mimic a basic cell structure starting from(but not limited to)
+1. Nucleus
+2. cytoplasm
+3. Nuclear membrane
+4. Other protein synthesis and processing parts
